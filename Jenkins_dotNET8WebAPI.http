@@ -1,0 +1,6 @@
+@Jenkins_dotNET8WebAPI_HostAddress = http://localhost:5184
+
+GET {{Jenkins_dotNET8WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
